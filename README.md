@@ -1,5 +1,5 @@
 
-<--!img width='30px' src='https://github.com/venky9885/persistent_bottom_nav_with_neuromorphism/blob/master/wallpaperflutter4k.png'-->
+<mg width='2000px' src='https://github.com/venky9885/persistent_bottom_nav_with_neuromorphism/blob/master/wallpaperflutter4k.png'>
 
 
 ### Sup? I'm [Venky](https://venky9885.000webhostapp.com/). A grumpy programmer, may byte.
