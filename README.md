@@ -3,8 +3,8 @@
 
 
 ### Sup? I'm [Venky](https://venky9885.000webhostapp.com/). A grumpy programmer, may byte.
->**I am an AWS Solutions Architect,Flutter Developer and Kaggle Competitor Novice**
-- 🔭 I’m currently working on MVVM Architecture with Flutter
+>**I am Machine learning Developer ,Flutter Developer and Kaggle Competitor Novice**
+- 🔭 I’m currently working on MVVM Architecture with Flutter and Ml Algorithms
 - 🌱 I’m currently learning **Dynamic Programming**
 - 💬 Ask me about procrastinating workflows and mobile development
 - ⚡ Not a Fun fact: **I have a few facts about unemployed people, but none of them work**
