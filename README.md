@@ -10,7 +10,7 @@
 
 
 
-0 comments on commit c16cb20
+
 ### Sup? I'm [Venky](https://venky9885.000webhostapp.com/). A grumpy programmer, may byte.
 >**I am Machine learning Developer ,Flutter Developer and Kaggle Competitor Novice**
 - 🔭 I’m currently working on MVVM Architecture with Flutter and Ml Algorithms
