@@ -1,10 +1,16 @@
 <!--
 <a href="#"><img width='580px' height='250px'  src='https://github.com/venky9885/persistent_bottom_nav_with_neuromorphism/blob/master/wallpaperflutter4k.png' /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=venky9885&label=Profile%20views&color=0e75b6&style=flat)
 -->
 
 ![Venky GitHub stats](https://github-readme-stats.vercel.app/api?username=venky9885&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venky9885&layout=compact&theme=dracula&count_private=true&hide_border=true&langs_count=6&include_all_commits=true&hide=blade)](https://github.com/venky9885/github-readme-stats)
 
+
+
+
+0 comments on commit c16cb20
 ### Sup? I'm [Venky](https://venky9885.000webhostapp.com/). A grumpy programmer, may byte.
 >**I am Machine learning Developer ,Flutter Developer and Kaggle Competitor Novice**
 - 🔭 I’m currently working on MVVM Architecture with Flutter and Ml Algorithms
