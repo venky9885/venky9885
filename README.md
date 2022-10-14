@@ -2,6 +2,8 @@
 <a href="#"><img width='580px' height='250px'  src='https://github.com/venky9885/persistent_bottom_nav_with_neuromorphism/blob/master/wallpaperflutter4k.png' /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=venky9885&label=Profile%20views&color=0e75b6&style=flat)
 -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=venky9885)
+
 
 ![Venky GitHub stats](https://github-readme-stats.vercel.app/api?username=venky9885&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 
