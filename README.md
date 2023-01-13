@@ -5,9 +5,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=venky9885)
 
 
-![Venky GitHub stats](https://github-readme-stats.vercel.app/api?username=venky9885&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![Venky GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=venky9885&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venky9885&layout=compact&theme=dracula&count_private=true&hide_border=true&langs_count=6&include_all_commits=true&hide=blade)](https://github.com/venky9885/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venky9885&layout=compact&theme=dracula&count_private=true&hide_border=true&langs_count=6&include_all_commits=true&hide=blade)](https://github.com/venky9885/github-readme-stats)
 
 
 
