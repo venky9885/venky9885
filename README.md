@@ -6,10 +6,17 @@
 
 
 ![Venky GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=venky9885&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=venky9885&theme=dark)<br/>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venky9885&layout=compact&theme=dracula&count_private=true&hide_border=true&langs_count=6&include_all_commits=true&hide=blade)](https://github.com/venky9885/github-readme-stats)
 
 
+### 📊 GitHub Stats:
+[![Nitesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=venky9885&theme=dark&count_private=true&show_icons=true)](https://github.com/venky9885/github-readme-stats#gh-dark-mode-only)
+
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=venky9885&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
