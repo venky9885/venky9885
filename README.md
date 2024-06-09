@@ -15,9 +15,6 @@
 
 
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=venky9885&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 ### Sup? I'm [Venky](https://venkymylaram.me/). A grumpy programmer, may byte.
